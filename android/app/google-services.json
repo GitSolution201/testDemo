@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "254828135351",
+    "project_id": "sages-wedlocks",
+    "storage_bucket": "sages-wedlocks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254828135351:android:10a2b81b969c7245f85e32",
+        "android_client_info": {
+          "package_name": "com.sageswedlock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254828135351-anlma1bdhiper13pvkmv6qa1d6v2u1fp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sageswedlock",
+            "certificate_hash": "0c008eaf233fd681d3792d8ca86c702390c8960b"
+          }
+        },
+        {
+          "client_id": "254828135351-dpee1a819pc559m7aid7oso5bcvvdtkn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sageswedlock",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "254828135351-j5a80dchemkj19tlr5e9sidrpao3u556.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWBDDsFoRNa93eMypwzoHNpqGxOujDGc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254828135351-j5a80dchemkj19tlr5e9sidrpao3u556.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "254828135351-39mto3o29ov3ks2a8c8i3buguin9olqn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sageswedlock.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

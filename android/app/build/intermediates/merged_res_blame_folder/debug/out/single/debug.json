@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "com.sageswedlock.app-merged_res-56:/drawable-mdpi_src_assets_images_hotel5.jpg.flat",
+        "source": "com.sageswedlock.app-main-58:/drawable-mdpi/src_assets_images_hotel5.jpg"
+    },
+    {
+        "merged": "/Users/MAC/.gradle/daemon/8.3/com.sageswedlock.app-merged_res-56:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/MAC/.gradle/daemon/8.3/com.sageswedlock.app-main-58:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.sageswedlock.app-merged_res-56:/drawable-mdpi_src_assets_icons_applepay.png.flat",
+        "source": "com.sageswedlock.app-main-58:/drawable-mdpi/src_assets_icons_applepay.png"
+    },
+    {
+        "merged": "/Users/MAC/.gradle/daemon/8.3/com.sageswedlock.app-merged_res-56:/mipmap-ldpi_ic_launcher.png.flat",
+        "source": "/Users/MAC/.gradle/daemon/8.3/com.sageswedlock.app-main-58:/mipmap-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/MAC/.gradle/daemon/8.3/com.sageswedlock.app-merged_res-56:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/MAC/.gradle/daemon/8.3/com.sageswedlock.app-main-58:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/MAC/.gradle/daemon/8.3/com.sageswedlock.app-merged_res-56:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/MAC/.gradle/daemon/8.3/com.sageswedlock.app-main-58:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/MAC/.gradle/daemon/8.3/com.sageswedlock.app-merged_res-56:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/MAC/.gradle/daemon/8.3/com.sageswedlock.app-main-58:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.sageswedlock.app-merged_res-56:/drawable-mdpi_src_assets_icons_mastercard.png.flat",
+        "source": "com.sageswedlock.app-main-58:/drawable-mdpi/src_assets_icons_mastercard.png"
+    },
+    {
+        "merged": "com.sageswedlock.app-merged_res-56:/drawable-mdpi_src_assets_icons_googlepay.png.flat",
+        "source": "com.sageswedlock.app-main-58:/drawable-mdpi/src_assets_icons_googlepay.png"
+    },
+    {
+        "merged": "/Users/MAC/.gradle/daemon/8.3/com.sageswedlock.app-merged_res-56:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/MAC/.gradle/daemon/8.3/com.sageswedlock.app-main-58:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/MAC/.gradle/daemon/8.3/com.sageswedlock.app-merged_res-56:/drawable_rn_edit_text_material.xml.flat",
+        "source": "/Users/MAC/.gradle/daemon/8.3/com.sageswedlock.app-main-58:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.sageswedlock.app-merged_res-56:/drawable-mdpi_src_assets_images_hotel1.jpg.flat",
+        "source": "com.sageswedlock.app-main-58:/drawable-mdpi/src_assets_images_hotel1.jpg"
+    },
+    {
+        "merged": "com.sageswedlock.app-merged_res-56:/drawable-mdpi_src_assets_icons_paypal.png.flat",
+        "source": "com.sageswedlock.app-main-58:/drawable-mdpi/src_assets_icons_paypal.png"
+    },
+    {
+        "merged": "/Users/MAC/.gradle/daemon/8.3/com.sageswedlock.app-merged_res-56:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/MAC/.gradle/daemon/8.3/com.sageswedlock.app-main-58:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/MAC/.gradle/daemon/8.3/com.sageswedlock.app-merged_res-56:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/MAC/.gradle/daemon/8.3/com.sageswedlock.app-main-58:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.sageswedlock.app-merged_res-56:/drawable-mdpi_src_assets_images_hotel3.jpg.flat",
+        "source": "com.sageswedlock.app-main-58:/drawable-mdpi/src_assets_images_hotel3.jpg"
+    },
+    {
+        "merged": "com.sageswedlock.app-merged_res-56:/drawable-mdpi_src_assets_icons_chip.png.flat",
+        "source": "com.sageswedlock.app-main-58:/drawable-mdpi/src_assets_icons_chip.png"
+    },
+    {
+        "merged": "/Users/MAC/.gradle/daemon/8.3/com.sageswedlock.app-merged_res-56:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/MAC/.gradle/daemon/8.3/com.sageswedlock.app-main-58:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.sageswedlock.app-merged_res-56:/drawable-mdpi_src_assets_images_hotel4.jpg.flat",
+        "source": "com.sageswedlock.app-main-58:/drawable-mdpi/src_assets_images_hotel4.jpg"
+    },
+    {
+        "merged": "/Users/MAC/.gradle/daemon/8.3/com.sageswedlock.app-merged_res-56:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/MAC/.gradle/daemon/8.3/com.sageswedlock.app-main-58:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/MAC/.gradle/daemon/8.3/com.sageswedlock.app-merged_res-56:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/MAC/.gradle/daemon/8.3/com.sageswedlock.app-main-58:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/MAC/.gradle/daemon/8.3/com.sageswedlock.app-merged_res-56:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/MAC/.gradle/daemon/8.3/com.sageswedlock.app-main-58:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/MAC/.gradle/daemon/8.3/com.sageswedlock.app-merged_res-56:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/MAC/.gradle/daemon/8.3/com.sageswedlock.app-main-58:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/MAC/.gradle/daemon/8.3/com.sageswedlock.app-merged_res-56:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/MAC/.gradle/daemon/8.3/com.sageswedlock.app-main-58:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.sageswedlock.app-merged_res-56:/drawable-mdpi_src_assets_icons_visa.jpg.flat",
+        "source": "com.sageswedlock.app-main-58:/drawable-mdpi/src_assets_icons_visa.jpg"
+    },
+    {
+        "merged": "/Users/MAC/.gradle/daemon/8.3/com.sageswedlock.app-merged_res-56:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/MAC/.gradle/daemon/8.3/com.sageswedlock.app-main-58:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/MAC/.gradle/daemon/8.3/com.sageswedlock.app-merged_res-56:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/MAC/.gradle/daemon/8.3/com.sageswedlock.app-main-58:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.sageswedlock.app-merged_res-56:/drawable-mdpi_src_assets_images_hotel2.jpg.flat",
+        "source": "com.sageswedlock.app-main-58:/drawable-mdpi/src_assets_images_hotel2.jpg"
+    }
+]

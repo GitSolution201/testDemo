@@ -1,0 +1,22 @@
+export const Colors = {
+  white: '#FFFFFF',
+  primary: '#005FAC',
+  flashWhite: '#F1F1F1',
+  spanishGrey: '#9F9D9D',
+  chineseBlack: '#0D0E12',
+  black: '#000000',
+  lightSilver: '#d6d6d6',
+  darkSilver: '#707070',
+  whiteSmoke: '#F2F2F2',
+  secondary: '#D50606',
+  raisinBlack: '#202125',
+  finchGreen: '#0C8410',
+  teal: '#00C4B4', // The "Next" button color
+  darkGray: '#333333',
+  voucherBg: '#E6F7E6',
+  gray: '#9c9898',
+  lightGray: '#E0E0E0',
+  blue: '#0056d4',
+  yellow: '#FFD700',
+  checkText: '#cecece',
+};

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">254828135351-j5a80dchemkj19tlr5e9sidrpao3u556.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">254828135351</string>
+    <string name="google_api_key" translatable="false">AIzaSyDWBDDsFoRNa93eMypwzoHNpqGxOujDGc0</string>
+    <string name="google_app_id" translatable="false">1:254828135351:android:10a2b81b969c7245f85e32</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDWBDDsFoRNa93eMypwzoHNpqGxOujDGc0</string>
+    <string name="google_storage_bucket" translatable="false">sages-wedlocks.appspot.com</string>
+    <string name="project_id" translatable="false">sages-wedlocks</string>
+</resources>
